@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kerjago.id
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/kerjago/upptime/master/assets/kerjago_logo.svg
   name: Kerjago Uptime
   introTitle: "Kerjago Uptime Status"
   introMessage: "This webiste is powered by **Upptime**. It's is the open-source uptime monitor and status page, powered entirely by GitHub."
