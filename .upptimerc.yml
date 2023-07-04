@@ -17,12 +17,15 @@ status-website:
   name: Kerjago Uptime
   introTitle: "Kerjago Uptime Status"
   introMessage: "This webiste is powered by **Upptime**. It's is the open-source uptime monitor and status page, powered entirely by GitHub."
-  themeUrl: https://raw.githubusercontent.com/kerjago/upptime/master/assets/theme.css
+  themeUrl: https://status.kerjago.id/my-custom-theme.css
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/kerjago
+
+assignees: # Users to assign downtime issues (optional)
+  - kaenova
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
