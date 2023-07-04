@@ -4,35 +4,39 @@
     "url": "https://kerjago.id",
     "icon": "https://icons.duckduckgo.com/ip3/kerjago.id.ico",
     "slug": "kerjago",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1475,
-    "timeDay": 1674,
-    "timeWeek": 1475,
-    "timeMonth": 1475,
-    "timeYear": 1475,
-    "dailyMinutesDown": {}
+    "time": 1519,
+    "timeDay": 1875,
+    "timeWeek": 1519,
+    "timeMonth": 1519,
+    "timeYear": 1519,
+    "dailyMinutesDown": {
+      "2023-07-04": 0
+    }
   },
   {
     "name": "Kerjago Dashboard",
     "url": "https://dash.kerjago.id",
     "icon": "https://icons.duckduckgo.com/ip3/dash.kerjago.id.ico",
     "slug": "kerjago-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1565,
-    "timeDay": 1513,
-    "timeWeek": 1565,
-    "timeMonth": 1565,
-    "timeYear": 1565,
-    "dailyMinutesDown": {}
+    "time": 1579,
+    "timeDay": 1577,
+    "timeWeek": 1579,
+    "timeMonth": 1579,
+    "timeYear": 1579,
+    "dailyMinutesDown": {
+      "2023-07-04": 0
+    }
   }
 ]
