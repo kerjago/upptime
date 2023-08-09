@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1719,
-    "timeDay": 1486,
-    "timeWeek": 1604,
-    "timeMonth": 1750,
-    "timeYear": 1719,
+    "time": 1720,
+    "timeDay": 1518,
+    "timeWeek": 1608,
+    "timeMonth": 1751,
+    "timeYear": 1720,
     "dailyMinutesDown": {
       "2023-07-20": 12,
       "2023-07-04": 8
@@ -32,7 +32,7 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 1825,
-    "timeDay": 1716,
+    "timeDay": 1738,
     "timeWeek": 1838,
     "timeMonth": 1891,
     "timeYear": 1825,
@@ -46,19 +46,19 @@
     "url": "https://api.kerjago.id/__ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.kerjago.id.ico",
     "slug": "kerjago-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1306,
-    "timeDay": 1371,
+    "timeDay": 1373,
     "timeWeek": 1349,
     "timeMonth": 1306,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2023-08-09": 0
+      "2023-08-09": 3
     }
   }
 ]
