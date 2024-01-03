@@ -1,7 +1,7 @@
 url: https://api.kerjago.id/__ping
-status: up
-code: 200
-responseTime: 922
-lastUpdated: 2024-01-03T11:36:25.138Z
+status: down
+code: 502
+responseTime: 3778
+lastUpdated: 2024-01-03T11:47:05.320Z
 startTime: Wed Jul 26 2023 01:20:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
